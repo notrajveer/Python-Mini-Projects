@@ -1,6 +1,6 @@
 # Python Mini Projects
 
-A collection of small Python scripts for daily practice.
+A collection of small Python scripts for daily practice and improved understanding of the language.
 
 ## Projects
 - **Expense Calculator**: A script to track daily spending.
