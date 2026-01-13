@@ -1,4 +1,4 @@
-def count():
+def count(): #Defining the main function
     print ("Welcome to word counter!")
     text = input("Enter your text here: ")
     
